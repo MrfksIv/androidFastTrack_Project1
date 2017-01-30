@@ -19,7 +19,9 @@ import java.util.Scanner;
 public class NetworkUtils extends AppCompatActivity{
 
     private final static String API_PARAM = "api_key";
-    private final static String API_KEY = "d6f5faf2d943b838f5327767b5caf96a";
+
+//    PLEASE ENTER YOUR OWN API_KEY HERE:
+    private final static String API_KEY = "[API-KEY-KEY-HERE]";
 
     public NetworkUtils() {
 
