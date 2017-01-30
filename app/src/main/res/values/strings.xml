@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PopularMovies</string>
+    <string name="base_url">http://image.tmdb.org/t/p/</string>
+    <string name="popular_url">http://api.themoviedb.org/3/movie/popular</string>
+    <string name="top_rated_url">http://api.themoviedb.org/3/movie/top_rated</string>
+    <string name="api_key">d6f5faf2d943b838f5327767b5caf96a</string>
+    <string name="api_param">api_key</string>
+</resources>
